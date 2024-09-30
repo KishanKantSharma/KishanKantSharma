@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Kishan Kant Sharma</h1>
-  <h2>A passionate Full Stack Web Developer from India</h2>
+  <h2>A Passionate Backend Developer From India</h2>
 </div>
 
 # 💫 About Me:
