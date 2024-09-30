@@ -1,6 +1,6 @@
-   ## Hi 👋, I'm Kishan Kant Sharma
+<p style="text-align: center;"># Hi 👋, I'm Kishan Kant Sharma</p>
   
-# A passionate Full Stack Web Developer from India
+## A passionate Full Stack Web Developer from India
 
 # 💫 About Me:
 🔭 Currently working on Web Backend<br><br>🌱 I’m currently learning Spring , Docker & DSA<br><br>👯 Looking to collaborate on Web Dev Projects<br><br>💬 Ask me about Spring Boot., Operating System, C/C++, Databases.<br><br>📫 How to reach me kishan.kant@zohomail.in<br><br><br><br>
