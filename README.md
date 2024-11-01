@@ -4,7 +4,7 @@
 </div>
 
 # 💫 About Me:
-🔭 Currently working on Web Backend<br><br>🌱 I’m currently learning Spring , Docker & DSA<br><br>👯 Looking to collaborate on Web Dev Projects<br><br>💬 Ask me about Spring Boot., Operating System, C/C++, Databases.<br><br>📫 How to reach me kishan.kant@zohomail.in<br><br><br><br>
+🔭 Currently working on Web Backend<br><br>🌱 I’m currently learning Spring-Boot , Docker & DSA<br><br>👯 Looking to collaborate on Web Dev Projects<br><br>💬 Ask me about Spring Boot., Operating System, C/C++, Databases.<br><br>📫 How to reach me kishankant.cse@gmail.com<br><br><br><br>
 
 
 ## 🌐 Socials:
